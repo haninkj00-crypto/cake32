@@ -217,6 +217,12 @@ Expected: PE32, machine i386 (`0x14c`), GUI subsystem, and imports restricted to
 - Charles Petzold, *Programming Windows*, discussion of Windows timer
   resolution and the 54.925 ms PC timer tick:
   <https://www.pcjs.org/documents/books/mspl13/win/prgwin/>
+- Charles Petzold, *Windows 1.0
+and the
+Applications of Tomorrow
+By Charles Petzold
+A Keynote Delivered at DevConnections in Las Vegas, November 7, 2005:
+<https://www.charlespetzold.com/etcetera/Windows1/index.html>
 - Microsoft Learn, [About timers](https://learn.microsoft.com/en-us/windows/win32/winmsg/about-timers)
 - Microsoft Learn, [SetTimer](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-settimer)
 - Microsoft Learn, [Unicode in the Windows API](https://learn.microsoft.com/en-us/windows/desktop/Intl/unicode-in-the-windows-api)
